@@ -1,0 +1,44 @@
+
+table{
+	position:absolute;
+	top:150px;
+	transparent:none;
+	z-index:-1;
+}
+.header{
+	position:relative;
+	width:auto;
+	height:150px;
+	background-color:#2e3436;
+}
+#register{
+		position:absolute;
+	top:9%;
+	left:70%;
+	border-radius:15px;
+	
+}
+#logout{
+	position:absolute;
+	top:9%;
+	left:80%;
+	border-radius:15px;
+}
+#heading{
+	position:absolute;
+	top:40px;
+	left:35%;
+	font-weight:10px;
+	background-color:black;
+	color:whitesmoke;
+	border:5px solid black;
+border-radius:15px;
+	box-shadow:10px 13px 14px grey; 
+}
+#heading:hover{
+	background-color:white;
+	color:black;
+	border:2px solid black;
+	
+	
+}
